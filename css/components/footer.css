@@ -1,0 +1,25 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: black;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
+
+.footer a {
+  font-size: 30px;
+  color: #1EDD88;
+  display: inline;
+}
+
+.footer p {
+  color: #6B6C6C;
+}
+
+.footer .fab {
+  text-align: center;
+  width: 1.25em;
+}
